@@ -72,7 +72,8 @@ Open terminal enter:
 streamlit run app.py
 ```
 
-![Uploading WhatsApp Image 2025-03-20 at 11.12.53 AM.jpeg…]()
+![WhatsApp Image 2025-03-20 at 11 12 53 AM](https://github.com/user-attachments/assets/a55c8959-c8ea-4f62-9ec7-b00a536ac94c)
+
 
 
 ## Troubleshooting
