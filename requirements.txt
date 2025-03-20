@@ -1,0 +1,11 @@
+streamlit
+face_recognition @ git+https://github.com/lovnishverma/face_recognition.git
+opencv-python-headless
+Pillow
+numpy
+pandas
+numpy
+pandas
+opencv-python
+keras
+tensorflow
